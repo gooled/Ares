@@ -128,3 +128,4 @@ Kills the agent.
 help
 This help.
 ```
+[![Run on Repl.it](https://repl.it/badge/github/sweetsoftware/Ares)](https://repl.it/github/sweetsoftware/Ares)
